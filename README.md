@@ -33,8 +33,18 @@ Then, you can edit your own `~/.XCompose` file and create your custom associatio
 
         # Keychron K6 Fixes
         <Multi_key> <backslash> <backslash> : "`"
-        <Multi_key> <minus> <n> : "ñ"
-        <Multi_key> <minus> <N> : "Ñ"
+        <Multi_key> <n> <n> : "ñ"
+        <Multi_key> <N> <N> : "Ñ"
+        <Multi_key> <a> <a> : "á"
+        <Multi_key> <A> <A> : "Á"
+        <Multi_key> <e> <e> : "é"
+        <Multi_key> <E> <E> : "É"
+        <Multi_key> <i> <i> : "í"
+        <Multi_key> <I> <I> : "Í"
+        <Multi_key> <o> <o> : "ó"
+        <Multi_key> <O> <O> : "Ó"
+        <Multi_key> <u> <u> : "ú"
+        <Multi_key> <U> <U> : "Ú"
 
 You can find the key names that go between the `<>` characters using the `xev` tool.
 
