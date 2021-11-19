@@ -20,7 +20,7 @@ Edit `/etc/bluetooth/main.conf`, uncomment the FastConnectable line and set it t
 
 ## Missing special/latin characters
 
-The keychron is missing the `~` and `՝` key, wich is pretty important for coding. In my case, I also need to be able to write some latin charcaters, such as ñ, á, etc. In order to get those working, what you need is enable and choose the "Compose Key", In Gnome is under the "keyboard and input" section in the "tweaks" application. 
+I write some latin charcaters, such as ñ, á, etc. In order to get those working, what you need is enable and choose the "Compose Key", In Gnome is under the "keyboard and input" section in the "tweaks" application. 
 
 You can see available key combinations here: https://help.ubuntu.com/community/GtkComposeTable
 
