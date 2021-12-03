@@ -1,6 +1,6 @@
 # Keychron K6 Linux Fixes
 
-Recopilation of small fixes to really enjoy this cool little keyboard. Most of this is found from the Keyhcron Linux user group on facebook.
+Recopilation of small fixes to really enjoy this cool little keyboard. Most of this is found from the Keychron Linux user group on facebook.
 
 ## How to enable Fn Keys
 
