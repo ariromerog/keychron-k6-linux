@@ -21,7 +21,7 @@ Edit `/etc/bluetooth/main.conf`, uncomment the FastConnectable line and set it t
 
 ## Missing special/latin characters
 
-I write some latin charcaters, such as ñ, á, etc. In order to get those working, what you need is enable and choose the "Compose Key", In Gnome is under the "keyboard and input" section in the "tweaks" application. 
+I write some latin charcaters, such as ñ, á, etc. In order to get those working, what you need is enable and choose the "Compose Key", In Gnome is under the "keyboard and input" section in the "tweaks" application. If you don't see this option, you probably have a newer Gnome, instructions for this [here](https://help.gnome.org/admin/system-admin-guide/stable/keyboard-compose-key.html.en).
 
 You can see available key combinations here: https://help.ubuntu.com/community/GtkComposeTable
 
