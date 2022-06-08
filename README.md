@@ -9,7 +9,7 @@ Out of the box, both the `fn1` and `fn2` modifiers only change to multimedia key
 - Set your keyboard to Windios/Android mode
 - Set the options for the kernel module
 
-        echo "s hid_apple fnmode=2" > /etc/modprobe.d/hid_apple.conf
+        echo "optionss hid_apple fnmode=2" > /etc/modprobe.d/hid_apple.conf
         sudo update-initramfs -u
         reboot
 
